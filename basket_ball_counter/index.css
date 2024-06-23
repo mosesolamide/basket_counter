@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #112A46;
+    color: white;
+    width: 400px;
+    height: 220px;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 5px;
+    
+}
+button{
+    background-color: transparent;
+    border: 1px solid #ACC8E5;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    background-color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: tomato;
+    width: 80px;
+    height: 40px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+}
